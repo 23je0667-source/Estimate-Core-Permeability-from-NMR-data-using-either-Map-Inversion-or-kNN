@@ -1,0 +1,1 @@
+# Estimate-Core-Permeability-from-NMR-data-using-either-Map-Inversion-or-kNN
